@@ -4,7 +4,7 @@ recycleView上增加导航栏
 
 1.滚动时候的navi联动
 
-![image](http://pic.suiyiyun.cn/598000/SVID_20180212_175436.gif) {:height="25%" width="25%"}
+<img src="http://pic.suiyiyun.cn/598000/SVID_20180212_175436.gif" style="zoom:25%" />
 
 
 
