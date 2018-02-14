@@ -17,4 +17,4 @@ recycleView上增加导航栏
 
 
 
-<img src="http://pic.suiyiyun.cn/598000/SVID_20180212_175510.gif" width="40%" height="40%" />
+<img src="https://github.com/jinjiankla/NaviRecycleView/blob/master/gif/SVID_20180212_175510.gif" width="40%" height="40%" />
